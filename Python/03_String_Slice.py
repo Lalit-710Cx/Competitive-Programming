@@ -35,6 +35,7 @@ print(last_five_chars)   # Output: World
 every_second_char = text[::2]
 print(every_second_char)  # Output: Hlo ol!
 
+
 # Example 3 (reverse a string)
 reversed_text = text[::-1]
 print(reversed_text)  # Output: !dlroW ,olleH
